@@ -3,7 +3,7 @@
 
 Whether to reload the page when source files are changed.
 
-By default, Rsbuild uses HMR as the preferred method to update modules. If HMR is disabled or cannot be used in certain scenarios, it will automatically fallback to liveReload.
+By default, Modern.js uses HMR as the preferred method to update modules. If HMR is disabled or cannot be used in certain scenarios, it will automatically fallback to liveReload.
 
 ## Disabling liveReload
 
